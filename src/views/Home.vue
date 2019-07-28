@@ -4,6 +4,7 @@
     <p>content goes here</p>
     <p>more content</p>
     <p>even more content!!</p>
+    <p>final content test</p>
   </div>
 </template>
 
