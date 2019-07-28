@@ -2,6 +2,7 @@
   <div class="home">
     <h1>home</h1>
     <p>content goes here</p>
+    <p>more content</p>
   </div>
 </template>
 
